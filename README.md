@@ -1,7 +1,21 @@
-# Hello DevKangTo's World
+# Hello World!!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeKangHyun)](https://hits.seeyoufarm.com)
-[![Github Followers](https://img.shields.io/github/followers/LeeKangHyun?color=06d6a0&label=Github%20Followers&style=round-square)](https://github.com/LeeKangHyun?tab=followers)
+<div align="left">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeKangHyun" />    
+  </a>
+  <a href="https://github.com/LeeKangHyun?tab=followers">
+    <img src="https://img.shields.io/github/followers/LeeKangHyun?color=06d6a0&label=Github%20Followers&style=round-square" />    
+  </a>
+  <a href="https://app.daily.dev/devlykangto">
+    <img 
+       width="256"
+       align="right"
+       src="https://api.daily.dev/devcards/7aaad07c9cee4e188e6e21ddbc4c856a.png?r=pfs"
+       alt="kanghyun's Dev Card"
+     />
+  </a>
+</div>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LeeKangHyun&show_icons=true)
 
