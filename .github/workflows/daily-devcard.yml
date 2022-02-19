@@ -2,10 +2,8 @@
 
 name: DevCard
 
-# Controls when the workflow will run
 on:
   workflow_dispatch:
-  # Triggers the workflow on push or pull request events but only for the master branch
   push:
     branches:
       - master
@@ -20,3 +18,4 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.5
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+          commit_message: "chore: update ${{filename}}"
