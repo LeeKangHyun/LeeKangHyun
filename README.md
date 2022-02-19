@@ -17,12 +17,21 @@
   </a>
 </div>
 
+<div>
+  <img
+     src="https://img.shields.io/badge/-javascript-F8E019?style=for-the-badge&logo=javascript&logoColor=fff"
+     alt="javascript"
+  />
+  <img
+     src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=fff"
+     alt="react"
+  />
+  <img
+     src="https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff"
+     alt="typescript"
+  />
+</div>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LeeKangHyun&show_icons=true)
-
-<!-- https://simpleicons.org -->
-
-![JavaScript](https://img.shields.io/badge/-javascript-F8E019?style=for-the-badge&logo=javascript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 
 [장난감 블로그](https://kangto.dev)
