@@ -32,6 +32,6 @@
   />
 </div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LeeKangHyun&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LeeKangHyun&show_icons=true&theme=dracula)
 
 [장난감 블로그](https://kangto.dev)
