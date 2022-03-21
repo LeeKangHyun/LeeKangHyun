@@ -11,7 +11,7 @@
     <img 
        width="256"
        align="right"
-       src="https://api.daily.dev/devcards/7aaad07c9cee4e188e6e21ddbc4c856a.png?r=pfs"
+       src="https://api.daily.dev/devcards/7aaad07c9cee4e188e6e21ddbc4c856a.png?r=w4x"
        alt="kanghyun's Dev Card"
      />
   </a>
